@@ -1,5 +1,24 @@
 # ResAuTo
 
+## Structure du Projet
+
+```
+ResAuTo/
+│
+├── data/
+│   ├── input.txt
+│   └── output/
+│       └── dossier_perso/
+│
+├── venv/
+│
+├── parseur.py
+│
+├── requirements.txt
+│
+└── README.md
+```
+
 ## Installation
 
 ### Créer l'environnement
