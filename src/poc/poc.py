@@ -115,7 +115,7 @@ def main():
         description='Générer un résumé automatique d\'un texte',
         formatter_class=argparse.ArgumentDefaultsHelpFormatter
     )   
-    parser.add_argument('--input_file',
+    parser.add_argument('input_file',
                         type=Path,
                         help='Chemin du fichier texte à résumer')
     parser.add_argument('--output_dir',

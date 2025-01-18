@@ -4,18 +4,19 @@
 
 ```
 ResAuTo/
+├── assets/
 │
-├── data/
-│   ├── input.txt
-│   └── output/
-│       └── dossier_perso/
+├── results/
 │
-├── venv/
+├── src/
+│   ├── emotion_parser/
+│   │   └── parseur.py
+│   │
+│   └── poc/
+│       └── pco.py
 │
-├── parseur.py
-│
+├── .gitignore
 ├── requirements.txt
-│
 └── README.md
 ```
 
@@ -51,12 +52,12 @@ Le parseur annote le texte avec des émotions (Satisfaction, Insatisfaction, Acc
 
 Cas simple :
 ```bash
-python parseur.py input.txt
+python src/emotion_parser/parseur.py assets/test1.txt
 ```
 
 Avec un répertoire de sortie personnalisé :
 ```bash
-python parseur.py input.txt --output_dir dossier_perso
+python src/emotion_parser/parseur.py input.txt --output_dir mon/dossier/perso
 ```
 
 ### Format de Sortie
@@ -66,6 +67,36 @@ Le parseur génère des annotations XML avec comme attribut le type d'émotion e
 ```
 <Satisfaction int=6>C'est vraiment excellent !</Satisfaction>
 <Disagreement int=4>Je ne suis pas certain de cela.</Disagreement>
+```
+
+### Notes
+
+- Le fichier d'entrée doit être un fichier texte (.txt), il faut spécifer l'encodage si ce n'est pas UTF-8
+- Le répertoire de sortie par défaut est "results"
+- Les fichiers annotés sont sauvegardés avec le suffixe "_annotation"
+
+### Exécuter la proof of concept
+
+La PoC résume automatiquement un texte court en utilisant l'analyse de fréquence.
+
+Cas simple :
+```bash
+python src/poc/poc.py assets/test1.txt
+```
+
+Avec un répertoire de sortie personnalisé :
+```bash
+python src/poc/poc.py assets/test1.txt --output_dir mon/dossier/perso
+```
+
+### Format de Sortie
+
+Le parseur génère un fichier texte contenant le résumé generée. Par exemple :
+
+```
+Il a montré une satisfaction immense lorsqu'il a pu transporter des charges plus légères. 
+De plus, le concept d'instinct est souvent mal compris. 
+Les Ânes sont souvent perçus comme des symboles de bêtise.
 ```
 
 ### Notes
