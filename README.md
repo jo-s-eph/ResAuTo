@@ -103,4 +103,4 @@ Les Ânes sont souvent perçus comme des symboles de bêtise.
 
 - Le fichier d'entrée doit être un fichier texte (.txt), il faut spécifer l'encodage si ce n'est pas UTF-8
 - Le répertoire de sortie par défaut est "results"
-- Les fichiers annotés sont sauvegardés avec le suffixe "_resummee"
+- Les fichiers annotés sont sauvegardés avec le suffixe "_resumee"
