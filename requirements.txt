@@ -1,3 +1,8 @@
 nltk>=3.6.0
 spacy>=3.0.0
+scikit-learn>=1.0.0
+gensim>=4.1.0
+numpy>=1.20.0
+matplotlib>=3.4.0
+rouge>=1.0.1
 fr-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.7.0/fr_core_news_sm-3.7.0.tar.gz
