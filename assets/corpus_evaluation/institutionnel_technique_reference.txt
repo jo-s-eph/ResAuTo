@@ -1,0 +1,42 @@
+Le produit est conçu pour être installé dans les tableaux électriques ou les boîtiers destinés à contenir des circuits électriques. Les composants et dispositifs électriques de la série EROUND destinés à une installation à l'intérieur de tableaux électriques ou de boîtiers ne sont pas protégés contre les éléments suivants : eau, poussière en quantité importante, condensation, humidité, vapeur, agents corrosifs, gaz explosifs, gaz inflammables ou autres agents polluants.
+L'embase de référence pour le montage, présente sur le diamètre extérieur de tous les dispositifs de la série EROUND, permet d'obtenir un parfait alignement du dispositif lors de l'apposement sur le panneau, en évitant les rotations.
+Après avoir fixé le dispositif de commande au panneau à l'aide de la bague prévue à cet effet, le raccordement à la base de fixation se fait par rotation du levier de verrouillage. Le levier donne des indications de position libre (cadenas ouvert) et de position verrouillée (cadenas fermé).
+Les dispositifs de commande et de signalisation sont fixés à l'arrière du panneau par une bague vissée à l'aide de la clé de fixation spéciale fournie comme accessoire. Le couple de serrage pour une fixation correcte doit être compris entre 2 et 2,5 Nm.
+Les blocs de contact et les blocs à LED sont équipés de deux ailettes à encliquetage qui garantissent une fixation stable à la base de fixation dans la version à fixation sur panneau ou au fond du boîtier dans la version à fixation en fond de boîtier.
+Les indicateurs lumineux E2 sont munis de verrines de différentes couleurs interchangeables. Les verrines peuvent être démontées et montées par simple rotation, dans le sens horaire et antihoraire respectivement, sans nécessiter d'outil.
+Tous les dispositifs de la série EROUND sont prévus pour un actionnement manuel.
+
+Ne pas appliquer une force excessive au dispositif lorsque celui-ci est au bout de sa course d'actionnement.
+Ne pas dépasser la course maximale d'actionnement.
+Avant l'installation, s'assurer que le dispositif est totalement intact.
+Ne pas démonter ni tenter de réparer le dispositif ; en cas d'anomalie ou de défaillance, remplacer le dispositif entier.
+
+Dans des espaces où la poussière et la saleté risquent de recouvrir le dispositif et de créer des dépôts empêchant le fonctionnement correct.
+
+En présence de variations permanentes de la température entraînant l'apparition de condensation.
+Dans des espaces où des manchons de glace peuvent se former sur le dispositif.
+Environnement exposé à des poussières ou gaz explosifs ou inflammables.
+
+Utiliser les dispositifs selon les instructions, en observant leurs limites de fonctionnement et conformément aux normes en vigueur.
+
+Les dispositifs ont des limites d'application spécifiques (température ambiante, minimale et maximale, durée de vie mécanique, degré de protection, etc.)
+
+L'installation doit être effectuée exclusivement par du personnel qualifié.
+
+Respecter les distances minimales entre les dispositifs (si prévues).
+Respecter les couples de serrage.
+Maintenir les charges électriques en dessous de la valeur indiquée dans la catégorie d'utilisation.
+Couper la tension avant d'accéder aux contacts, même pendant le câblage.
+Ne pas vernir ni peindre les dispositifs.
+
+Dans les boutons d'arrêt d'urgence, le circuit de sécurité doit être raccordé aux contacts NC .1-2 à actionneur en position de repos. Les contacts auxiliaires NO .3-.4 doivent être utilisés seulement dans les circuits de signalisation.
+
+Toujours brancher le fusible de protection (ou un dispositif équivalent) en série sur les contacts NC .1-2 du circuit de sécurité.
+Le contrôle du bon fonctionnement des dispositifs de sécurité doit avoir lieu périodiquement, selon une fréquence établie par le fabricant de la machine en fonction de la dangerosité de celle-ci ; il faut de toute façon l'effectuer au moins une fois par an.
+
+Tous les dispositifs à fonctions de sécurité installés dans la machine ont une durée de vie limitée. 20 ans après la date de fabrication, il faut entièrement remplacer le dispositif, même s'il marche encore.
+Le dispositif est conçu pour être installé sur des machines industrielles.
+
+Seul un personnel qualifié et connaissant parfaitement la réglementation en vigueur dans le pays d'installation est autorisé à installer le dispositif.
+Le dispositif doit être utilisé tel qu'il est fourni, correctement câblé.
+Il est interdit de démonter le produit et de n'utiliser que certaines de ses parties ; le dispositif est conçu pour être utilisé dans son ensemble.

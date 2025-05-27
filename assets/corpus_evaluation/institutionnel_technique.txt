@@ -1,0 +1,178 @@
+
+# Prescriptions générales
+
+Le produit est conçu pour être installé dans les tableaux électriques ou les boîtiers destinés à contenir des circuits électriques. Les composants et dispositifs électriques de la série EROUND destinés à une installation à l'intérieur de tableaux électriques ou de boîtiers (ex. E2 CP, E2 CF, E2 LP, E2 LF) ne sont pas protégés contre les éléments suivants : eau, poussière en quantité importante, condensation, humidité, vapeur, agents corrosifs, gaz explosifs, gaz inflammables ou autres agents polluants. L'indice de protection des tableaux électriques ou des boîtiers devra garantir la protection nécessaire aux composants électriques de la série EROUND installés à l'intérieur, en fonction du domaine d'application.
+
+## Embase de référence
+
+L'embase de référence pour le montage, présente sur le diamètre extérieur de tous les dispositifs de la série EROUND, permet d'obtenir un parfait alignement du dispositif lors de l'apposement sur le panneau, en évitant les rotations.
+
+Dans les cas où il s'avérerait nécessaire d'utiliser des trous sur lesquels ne figure pas la marque d'orientation, il suffit d'enlever l'embase en exerçant une légère action de levier avec un tournevis, en faisant bien attention à ne pas endommager le joint de fixation.
+Il est déconseillé de retirer l'embase de référence des sélecteurs (séries E2 SE, E2 SL, E2 SC) et des boutons d'arrêt d'urgence (séries E2 PE) avec réarmement par rotation, car ce sont des dispositifs sujets à l'actionnement de type rotatif.
+
+
+## Raccordement du dispositif à la base de fixation
+
+Après avoir fixé le dispositif de commande au panneau à l'aide de la bague prévue à cet effet, le raccordement à la base de fixation se fait par rotation du levier de verrouillage. Le levier donne des indications de position libre (cadenas ouvert) et de position verrouillée (cadenas fermé).
+La rotation du levier de verrouillage est facilitée par un tournevis plat.
+
+## Fixation sur panneau
+
+Les dispositifs de commande et de signalisation sont fixés à l'arrière du panneau par une bague vissée à l'aide de la clé de fixation spéciale fournie comme accessoire.
+Le couple de serrage pour une fixation correcte doit être compris entre 2 et 2,5 Nm.
+Après avoir vissé la bague de fixation, il est possible d'apposer la base de fixation, puis les blocs de contact ou les blocs à LED sur le panneau.
+
+## Fixation du bloc de contact et du bloc à LED
+
+Les blocs de contact et les blocs à LED sont équipés de deux ailettes à encliquetage qui garantissent une fixation stable à la base de fixation dans la version à fixation sur panneau ou au fond du boîtier dans la version à fixation en fond de boîtier. Les blocs de contacts sur panneau peuvent être attachés entre eux jusqu'à un nombre maximum de trois, les limites spécifiées dans le chapitre correspondant étant respectées pour chaque actionneur.
+Les blocs de contact et les blocs à LED sont retirés rapidement en faisant levier avec un tournevis plat sur les ailettes de fixation.
+
+## Verrines pour indicateurs lumineux E2
+
+Les indicateurs lumineux E2 sont munis de verrines de différentes couleurs interchangeables. Les verrines peuvent être démontées et montées par simple rotation, dans le sens horaire et antihoraire respectivement, sans nécessiter d'outil. Pour un rendu correct des couleurs, il convient d'utiliser les bonnes combinaisons de couleurs de la verrine de l'indicateur lumineux et du bloc à LED sur lequel il sera monté.
+
+## Insertion et retrait des bouchons pour les vis
+
+Les bouchons de couvercle fournis pour les boîtiers de la série EROUND permettent de fermer les logements des vis en empêchant ainsi l'accumulation de saleté et en rendant plus difficiles les tentatives de forçage. Ces bouchons se raccordent aux surfaces du boîtier, en créant un ensemble monolithique sans vis apparentes et donc soigné du point de vue esthétique.
+
+## Joint de fixation
+
+De par sa forme, le joint de fixation garantit une préfixation sur le panneau.
+De cette façon, on peut appliquer la bague sans être contraint de maintenir le dispositif en position.
+
+## Utilisation des dispositifs
+
+- Tous les dispositifs de la série EROUND sont prévus pour un actionnement manuel.
+- Ne pas appliquer une force excessive au dispositif lorsque celui-ci est au bout de sa course d'actionnement.
+- Ne pas dépasser la course maximale d'actionnement.
+- Avant l'installation, s'assurer que le dispositif est totalement intact.
+- Ne pas démonter ni tenter de réparer le dispositif ; en cas d'anomalie ou de défaillance, remplacer le dispositif entier.
+- En cas de déformation ou d'endommagement du dispositif, toujours remplacer l'intégralité du dispositif. Le fonctionnement n'est pas garanti en cas de dispositif déformé ou endommagé.
+- Toujours joindre les présentes prescriptions d'utilisation au manuel de la machine sur laquelle le dispositif est installé.
+- La conservation des présentes prescriptions d'utilisation doit permettre de les consulter sur toute la durée d'utilisation du dispositif.
+
+## Verrines pour boutons et boutons lumineux
+
+Les boutons et les boutons lumineux sont équipés de verrines remplaçables.
+Les verrines peuvent être retirées en faisant levier avec un objet suffisamment pointu en l'introduisant dessous au niveau de l'encoche de référence présente sur le diamètre extérieur de la verrine.
+
+Les bouchons s'accrochent au couvercle en exerçant une simple pression jusqu'au déclic de l'ailette flexible.
+Pour les retirer, il faut insérer la pointe d'un outil (par ex. un petit tournevis) dans la fente prévue à cet effet sur chaque bouchon et exercer un mouvement de levier sur l'ailette d'accrochage, afin d'en permettre l'ouverture.
+
+## Ne pas utiliser dans les environnements suivants :
+
+- Dans des espaces où la poussière et la saleté risquent de recouvrir le dispositif et de créer des dépôts empêchant le fonctionnement correct.
+- En présence de variations permanentes de la température entraînant l'apparition de condensation.
+- Dans des espaces où des manchons de glace peuvent se former sur le dispositif.
+- Dans des espaces où l'application provoque des chocs et des vibrations pouvant endommager le dispositif.
+- Environnement exposé à des poussières ou gaz explosifs ou inflammables.
+- Dans des espaces soumis à des agressions chimiques et dans lesquels les produits entrant en contact avec le dispositif risquent de compromettre son intégrité physique et fonctionnelle.
+- L'installateur du dispositif est tenu de vérifier si l'environnement d'utilisation du dispositif est compatible avec le dispositif, ce avant l'installation.
+
+## Limites d'utilisation
+
+- Utiliser les dispositifs selon les instructions, en observant leurs limites de fonctionnement et conformément aux normes en vigueur.
+- Les dispositifs ont des limites d'application spécifiques (température ambiante, minimale et maximale, durée de vie mécanique, degré de protection, etc.) Les différents dispositifs satisfont à ces limites uniquement lorsqu'ils sont considérés individuellement et non combinés entre eux. Pour plus d'informations, contactez notre bureau technique.
+- L'emploi implique le respect et la connaissance des normes IEC 60204-1, IEC 60947-5-1, ISO 12100.
+- Dans les conditions suivantes, pour toute information et assistance, consultez notre service technique (téléphone +39.0424.470.930 / e-mail tech@pizzato.com) :
+- Cas non mentionnés dans les présentes prescriptions d'utilisation.
+- Dans les centrales nucléaires, les trains, les avions, les voitures, les incinérateurs, les dispositifs médicaux ou toute autre application dans laquelle la sécurité de deux personnes ou plus dépend du bon fonctionnement des dispositifs.
+
+## Câblage et installation
+
+- L'installation doit être effectuée exclusivement par du personnel qualifié.
+- Respecter les distances minimales entre les dispositifs (si prévues).
+- Respecter les couples de serrage.
+- Maintenir les charges électriques en dessous de la valeur indiquée dans la catégorie d'utilisation.
+- Couper la tension avant d'accéder aux contacts, même pendant le câblage.
+- Ne pas vernir ni peindre les dispositifs.
+- Il est possible d'installer les dispositifs uniquement sur des surfaces perforées conformément à la norme IEC 60947-5-1 et d'une épaisseur comprise entre 1 et 6 mm.
+- Le degré de protection et le bon fonctionnement sont garantis uniquement si le produit est installé sur des surfaces planes et lisses, avec des trous de diamètre adéquat, conformément à la norme IEC 60947-5-1.
+- Ne pas tirer sur les câbles électriques raccordés aux blocs de contact pendant ni après l'installation. Si des forces de traction trop élevées sont appliquées sur les câbles électriques, les blocs de contact risquent de se décrocher de l'actionneur.
+- Pendant les opérations de fixation et de détachement des blocs de contact de la base de fixation ou du fond de boîtier, veiller à ne pas déformer ni trop solliciter les ailettes de fixation. Toute déformation des ailettes pourrait provoquer le décrochage des blocs de contact de leur base de fixation.
+- N'effectuez à proximité de dispositifs destinés à être alimentés en courant aucune opération pouvant générer des décharges électrostatiques de forte intensité, même si le dispositif est éteint ou non câblé (par exemple : décapage, frottement de surfaces en plastique ou autres matériaux pouvant être chargés électrostatiquement).
+- Les boîtiers des séries EA et ES sont équipés de trous prédécoupés pour le passage de câbles électriques. Ouvrir les trous en question à l'aide d'un outil approprié de façon à ne pas abîmer le boîtier. Ne pas utiliser de boîtiers endommagés ou fissurés par une ouverture inadaptée des trous prédécoupés. Après avoir ouvert le trou, enlever les éventuels résidus de plastique et y introduire un presse-étoupe (ou tout dispositif équivalent) de degré de protection égal ou supérieur à celui du boîtier.
+- Après l'installation et avant la mise en service de la machine, vérifier :
+- le fonctionnement correct du dispositif ;
+- le blocage correct et complet de la base de fixation E2 1BAC au dispositif ;
+- la fixation correcte des blocs de contact.
+- Vérifier régulièrement le fonctionnement correct des dispositifs.
+- Ne pas déformer ni modifier en aucun cas le dispositif.
+- Avant l'installation, s'assurer que le dispositif est totalement intact.
+- Ne pas ouvrir, démonter ni tenter de réparer le dispositif. Si le dispositif est endommagé, le remplacer immédiatement.
+- Si l'installateur n'est pas en mesure de comprendre pleinement les prescriptions d'utilisation, il ne doit pas procéder à l'installation du produit et peut demander de l'aide.
+
+## Prescriptions supplémentaires pour les applications de sécurité
+
+Toutes les prescriptions précédentes étant bien entendues, il faut également respecter les prescriptions supplémentaires suivantes lorsque les dispositifs sont destinés à la protection des personnes.
+
+- L'emploi implique le respect et la connaissance des normes IEC 60204-1, IEC 60947-5-1, EN ISO 13849-1, EN 62061, EN ISO 12100.
+- Dans les boutons d'arrêt d'urgence, le circuit de sécurité doit être raccordé aux contacts NC .1-2 à actionneur en position de repos. Les contacts auxiliaires NO .3-.4 doivent être utilisés seulement dans les circuits de signalisation.
+- Toujours brancher le fusible de protection (ou un dispositif équivalent) en série sur les contacts NC .1-2 du circuit de sécurité.
+- Le contrôle du bon fonctionnement des dispositifs de sécurité doit avoir lieu périodiquement, selon une fréquence établie par le fabricant de la machine en fonction de la dangerosité de celle-ci ; il faut de toute façon l'effectuer au moins une fois par an.
+- Après l'installation et avant la mise en service de la machine, vérifier :
+- le fonctionnement correct du dispositif ;
+- le blocage correct et complet de la base de fixation E2 1BAC ;
+- la fixation correcte des blocs de contact.
+- Ne pas laisser la clé insérée dans les boutons d'arrêt d'urgence avec déverrouillage à serrure E2 PEBZ. Un actionnement éventuel inattendu du bouton d'arrêt d'urgence avec clé insérée pourrait blesser l'opérateur.
+- Tous les dispositifs à fonctions de sécurité installés dans la machine (par exemple, bouton d'arrêt d'urgence, bouton d'arrêt, sélecteur de mode automatique/manuel, etc.) ont une durée de vie limitée. 20 ans après la date de fabrication, il faut entièrement remplacer le dispositif, même s'il marche encore. La date de fabrication est indiquée à côté du code du produit sur l'étiquette apposée sur l'emballage. En cas de conditions climatiques particulièrement défavorables, la durée de vie du dispositif peut diminuer radicalement. Vérifier périodiquement le bon fonctionnement des dispositifs de sécurité et les remplacer si nécessaire, même avant l'expiration de la période mentionnée ci-dessus.
+- Le dispositif présente un marquage placé sur l'emballage. Le marquage comprend : marque du fabricant, code du produit, numéro de lot et date de fabrication. La première lettre du lot indique le mois de fabrication (A = Janvier, B = Février, etc.). Les deuxième et troisième chiffres indiquent l'année de fabrication (21 = 2021, 22 = 2022, etc.).
+- Si le dispositif a pour fonction de protéger les opérateurs, une mauvaise installation ou des manipulations intempestives peuvent causer des blessures graves ou même la mort.
+- Ces dispositifs ne doivent pas être contournés, enlevés, tournés ni désactivés par d'autres moyens.
+- Si la machine, munie de ce dispositif, est utilisée à des fins autres que celles qui sont spécifiées par le fabricant, le dispositif pourrait ne pas protéger l'opérateur de manière efficace.
+- La catégorie de la sécurité du système, comprenant le dispositif de sécurité, dépend aussi des dispositifs extérieurs et de leur raccordement. Vérifier que le dispositif est en mesure de réaliser la fonction de sécurité prévue par l'analyse de risque de la machine, conformément à la norme EN ISO 13849-1.
+
+## Prescriptions générales
+
+- Le dispositif est conçu pour être installé sur des machines industrielles.
+- Seul un personnel qualifié et connaissant parfaitement la réglementation en vigueur dans le pays d'installation est autorisé à installer le dispositif.
+- Le dispositif doit être utilisé tel qu'il est fourni, correctement câblé.
+- Il est interdit de démonter le produit et de n'utiliser que certaines de ses parties ; le dispositif est conçu pour être utilisé dans son ensemble. Il est interdit d'apporter des modifications au produit, même de manière limitée, à savoir : remplacer des parties du dispositif, perforer le dispositif, lubrifier le dispositif, nettoyer le dispositif avec de l'essence ou du gazole, ou de toute façon avec des produits chimiques agressifs.
+- Le degré de protection du dispositif concerne uniquement les contacts électriques.
+- Avant d'installer un dispositif, examiner attentivement tous les polluants présents dans l'application, car le degré de protection IP selon EN 60529 se réfère exclusivement à des agents comme la poussière et l'eau. Le dispositif pourrait donc ne pas être adapté à l'installation en présence des éléments suivants : quantités élevées de poudres/poussières, condensation, humidité, vapeur, agents corrosifs, agents chimiques, gaz explosifs, gaz inflammables, poudres/poussière explosives, poudres/poussières inflammables ou autres polluants.
+- Certains dispositifs sont munis d'un boîtier perforé pour l'insertion des câbles électriques. Pour garantir un degré de protection adéquat du dispositif, il faut réaliser le câblage, à travers le trou présent dans le boîtier, avec un élément d'étanchéité approprié pour éviter que des polluants ne pénètrent à l'intérieur du dispositif. Un câblage correct exige l'utilisation de presse-étoupes, chemins de câbles, connecteurs ou autres éléments ayant un degré de protection IP égal ou supérieur à celui du dispositif.
+- Conserver les produits dans leur emballage d'origine, dans un endroit sec, à une température comprise entre -40°C et +70°C.
+- Le non-respect des présentes prescriptions ou une mauvaise utilisation du dispositif peuvent endommager ce dernier et compromettre ses fonctionnalités. Cela implique l'annulation de la garantie de l'article et dégage le fabricant de toute responsabilité.
+
+## Utilisation des dispositifs
+
+- Avant l'utilisation, vérifier si les normes nationales prévoient d'autres prescriptions, en plus de celles qui sont mentionnées dans le présent document.
+- Ne pas mettre le dispositif en contact avec des fluides corrosifs.
+- Ne pas soumettre le dispositif à des contraintes de flexion ou de torsion.
+- Ne pas appliquer une force excessive au dispositif lorsque celui-ci est au bout de sa course d'actionnement.
+- Ne pas dépasser la course maximale d'actionnement.
+- Si le dispositif est doté d'un manuel d'utilisation spécifique fourni avec le produit ou bien téléchargeable depuis le site www.pizzato.com, ledit manuel doit toujours accompagner le manuel de la machine et rester consultable pendant toute la période d'utilisation.
+- Lorsque la pédale est équipée d'un ou de plusieurs tubes métalliques aux extrémités desquels est relié un boîtier doté de dispositifs de la série EROUND, il faut respecter les prescriptions d'utilisation qui sont indiquées aux pages 169 à 171 du présent catalogue.
+
+## Câblage et installation
+
+- L'installation doit être effectuée exclusivement par du personnel qualifié.
+- Limiter l'utilisation de ces appareils à la fonction d'auxiliaire de commande.
+- Le produit ne peut être utilisé que sur des surfaces planes.
+- Ne pas utiliser le dispositif comme support pour d'autres parties de la machine (canalisations électriques, tuyaux, etc.)
+- Maintenir les charges électriques en dessous de la valeur indiquée dans la catégorie d'utilisation.
+- Couper la tension avant d'accéder aux contacts, même pendant le câblage.
+- Ne pas vernir ni peindre les dispositifs.
+- Avant l'installation, s'assurer que le dispositif est totalement intact.
+- Pendant les opérations de câblage, respecter toutes les prescriptions suivantes.
+- Respecter les sections minimales et maximales des conducteurs électriques admises par les bornes.
+- Respecter les couples de serrage des bornes électriques qui sont mentionnés dans le présent catalogue.
+- Sous peine de compromettre le bon fonctionnement du dispositif, n'introduire aucun polluant à l'intérieur de ce dernier (talc, lubrifiants pour le coulissement des câbles, poudre antiadhérente pour câbles multipolaires, petits torons en cuivre volants et autres polluants).
+- Avant de fermer le couvercle du dispositif (si présent), vérifier que les joints de fixation sont bien positionnés.
+- Vérifier que les câbles électriques, les embouts, les systèmes de numérotation de câbles ou d'autres parties n'empêchent pas le couvercle de se fermer correctement ; vérifier qu'ils ne s'écrasent pas les uns les autres sous peine d'endommager ou de comprimer le bloc de contact interne.
+- Pour les dispositifs avec câble intégré, l'extrémité dégagée du câble doit être correctement raccordée à l'intérieur d'un boîtier protégé. Le câble électrique doit être opportunément protégé contre d'éventuels chocs, coupures, abrasions, etc.
+- Vérifier que l'application du dispositif respecte les prescriptions décrites dans les paragraphes « Ne pas utiliser dans les environnements suivants » et « Limites d'utilisation » à la page 170.
+- Après l'installation et avant la mise en service de la machine, vérifier :
+- le fonctionnement correct de toutes les parties du dispositif ;
+- le câblage et le serrage corrects de toutes les vis.
+- Avant de mettre la machine en service et au moins une fois par an (ou après un arrêt prolongé), effectuer la séquence de tests suivante.
+- La pédale doit se déplacer librement et la course d'actionnement doit être linéaire. Il ne doit y avoir aucun objet ni corps étranger sous la pédale, susceptible d'empêcher l'actionnement de celle-ci.
+- Vérifier que la force d'actionnement est compatible avec les valeurs d'usine.
+- Vérifier le bon fonctionnement du levier de sécurité : il doit être impossible d'actionner la pédale sans avoir d'abord abaissé le levier de sécurité (si présent).
+- Vérifier que le mécanisme de verrouillage de l'actionneur de pédale (si présent) fonctionne correctement.
+- Vérifier que le câble de raccordement électrique et son presse-étoupe sont en bon état et solidement fixés au dispositif.
+- Vérifier que la machine se comporte comme prévu après avoir actionné la pédale.
+- Toutes les parties extérieures doivent être en bon état.
+- Si le dispositif est endommagé, le remplacer complètement.
+
+Si l'installateur n'est pas en mesure de comprendre pleinement les prescriptions d'utilisation, il ne doit pas procéder à l'installation du produit et peut demander de l'aide.
