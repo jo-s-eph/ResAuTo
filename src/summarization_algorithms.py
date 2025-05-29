@@ -320,3 +320,89 @@ def get_summary_with_emotion_weighting(text: str, annotated_text: str, ratio: fl
     summary = " ".join([sent[0] for sent in sorted_sentences[:select_length]])
     
     return summary
+
+def tale_summary(text: str, ratio: float = 0.3) -> str:
+    """Résumé spécialisé pour les contes, avec pondération narrative, détection de personnages principaux,
+    et valorisation des formules traditionnelles du conte.
+
+    Args:
+        text: Texte du conte à résumer
+        ratio: Proportion du texte original à conserver
+
+    Returns:
+        Résumé du conte
+    """
+    sentences = get_sentences(text)
+    if len(sentences) <= 2:
+        return text
+
+    # Étape 1 : détection des personnages (entités nommées par majuscule répétée)
+    words = word_tokenize(text)
+    capitalized_words = [w for w in words if w.istitle() and w.lower() not in stopwords.words('french')]
+
+    name_freq = {}
+    for word in capitalized_words:
+        if word not in punctuation and len(word) > 1:
+            name_freq[word] = name_freq.get(word, 0) + 1
+
+    main_characters = {name for name, freq in name_freq.items() if freq >= 2}
+
+    # Étape 2 : TF-IDF classique
+    vectorizer = TfidfVectorizer(
+        stop_words=stopwords.words('french'),
+        min_df=1,
+        max_features=5000
+    )
+    tfidf_matrix = vectorizer.fit_transform(sentences)
+    base_scores = {sentence: np.sum(tfidf_matrix[i].toarray()) for i, sentence in enumerate(sentences)}
+
+    # Liste des formules classiques de contes
+    tale_formulas = [
+        "il était une fois", "dans un royaume lointain", "au temps jadis",
+        "dans un pays lointain", "un jour", "il y a fort longtemps",
+        "chaque jour", "tout à coup", "un beau matin",
+        "ils vécurent heureux", "jusqu'à la fin des temps", "fin", "la morale de cette histoire",
+        "et c’est ainsi que", "et depuis ce jour"
+    ]
+
+    def contains_formula(sentence: str) -> bool:
+        sentence_lower = sentence.lower()
+        return any(formula in sentence_lower for formula in tale_formulas)
+
+    # Étape 3 : pondération narrative + bonus
+    def narrative_weight(index: int, total: int) -> float:
+        position = index / total
+        return (
+            1.5 if position < 0.15 else
+            1.2 if position > 0.85 else
+            1.0
+        )
+
+    total_sentences = len(sentences)
+    weighted_scores = {}
+
+    for i, sent in enumerate(sentences):
+        base_score = base_scores.get(sent, 0.0)
+        weight = narrative_weight(i, total_sentences)
+
+        char_bonus = 1.0
+        for name in main_characters:
+            if name in sent:
+                char_bonus += 0.2
+
+        formule_bonus = 1.3 if contains_formula(sent) else 1.0
+
+        final_score = base_score * weight * char_bonus * formule_bonus
+        weighted_scores[sent] = final_score
+
+    # Étape 4 : sélection des meilleures phrases
+    select_length = max(1, int(len(sentences) * ratio))
+    sorted_sentences = sorted(weighted_scores.items(), key=lambda x: x[1], reverse=True)
+    selected_sentences = [s[0] for s in sorted_sentences[:select_length]]
+
+    # Rétablir l'ordre narratif original
+    sentence_order = {sent: i for i, sent in enumerate(sentences)}
+    selected_sentences.sort(key=lambda s: sentence_order.get(s, 0))
+    summary = " ".join(selected_sentences)
+
+    return summary
