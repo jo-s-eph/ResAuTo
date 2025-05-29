@@ -19,6 +19,7 @@ import summarization_algorithms as sa
 # Téléchargement des ressources NLTK nécessaires
 nltk.download('stopwords', quiet=True)
 nltk.download('punkt', quiet=True)
+nltk.download('punkt_tab')
 
 def get_emotion_parser_path():
     """Trouve le chemin du module d'analyse d'émotions."""
@@ -62,7 +63,7 @@ def main():
                        help='Ratio de compression du texte (entre 0.0 et 1.0)')
     parser.add_argument('--method',
                        type=str,
-                       choices=['basic', 'tfidf', 'textrank', 'lsa', 'emotion'],
+                       choices=['basic', 'tfidf', 'textrank', 'lsa', 'emotion', 'tale'],
                        default='tfidf',
                        help='Méthode de résumé à utiliser')
     parser.add_argument('--emotion_method',
@@ -119,6 +120,8 @@ def main():
             ratio=args.ratio, 
             method=args.emotion_method
         )
+    elif args.method == 'tale':
+        summary = sa.tale_summary(text, ratio=args.ratio)
     else:
         print(f"Erreur: Méthode de résumé inconnue: {args.method}")
         return
